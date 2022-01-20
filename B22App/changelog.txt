@@ -1,0 +1,20 @@
+[30/10/21] 9:45
+- aggiunta la whitelist
+
+[30/10/21] 10:03
+- aggiunto alias per comando /select (/s)
+
+[11/12/21] 10:30
+- aggiunta grafica della chat
+- aggiunta cronologia messaggi
+
+[12/12/21] 13:20
+- e' possibile aggiungere i contatti
+- salvataggio di chat e contatti in file
+- la home mostra le chat con l'ultimo messaggio
+
+[12/12/21] 17:35
+- la chat si evidenzia se c'e' un nuovo messaggio
+- fixata la non chiusura di un processo alla chiusura dell'app
+
+Changelog by LoryCave
