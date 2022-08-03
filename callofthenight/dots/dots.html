@@ -2,10 +2,48 @@
 <html>
     <head>
         <title>Dots</title>
+        <style>
+            div.item {
+                vertical-align: top;
+                display: inline-block;
+                text-align: center;
+            /*    border: 1px solid;    */
+            }
+
+            img {
+                width: 1000px;
+                border: 1px solid;
+            }
+
+            .caption {
+                display: block;
+                text-align: left;
+            }
+
+            .container {
+                display: flex;
+                justify-content: center;
+            }
+
+            ul {
+                list-style-type: circle;
+            }
+        </style>
     </head>
     <body>
-        <div style="text-align: center;">
-            <img width="1000em" src="dots_169.png">
+        <div class="container">
+            <div class="item">
+                <img src="dots_169.png">
+                <h2>Call of the night wallpaper</h2>
+
+                <span class="caption">
+                    Sizes: <br>
+                    <ul>
+                        <li><a href="dots_169.png" download>16:9</a></li>
+                        <li><a href="dots_219.png" download>21:9</a></li>
+                    </ul>
+                </span>
+            </div>
         </div>
     </body>
 </html>
